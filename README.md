@@ -1,0 +1,1 @@
+A daily journal website made just for fun. And also to learn nodejs, expressjs and mongoDB.
